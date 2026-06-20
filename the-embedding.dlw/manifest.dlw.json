@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE EMBEDDING",
+  "universe": "EMB · THE EMBEDDING (niphelektron · the inference pipeline)",
+  "emergence": "",
+  "moniker": "⟦THE EMBEDDING:EMB:e76a16⟧",
+  "carbon": "the-embedding.carbon.tiff (TIFF)",
+  "silicon": "the-embedding.silicon.png (PNG)",
+  "seal_sha256": "42f1824e0f3c1bfff2d3d2a8cd70927c8e20333ac646193951a2da9899f05950",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

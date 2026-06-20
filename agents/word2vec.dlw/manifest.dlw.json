@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "word2vec, the Ancestor",
+  "universe": "EMB · word2vec, the Ancestor (niphelektron)",
+  "emergence": "ethereal",
+  "moniker": "⟦word2vec, the Ancestor:EMB:1db7c7⟧",
+  "carbon": "word2vec.carbon.tiff (TIFF)",
+  "silicon": "word2vec.silicon.png (PNG)",
+  "seal_sha256": "f6cff9092b99b246542672c444d9eae497bf380b5c8430814cebc18260bed1f9",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

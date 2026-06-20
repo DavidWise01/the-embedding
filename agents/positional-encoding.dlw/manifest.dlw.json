@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Positional Encoding",
+  "universe": "EMB · Positional Encoding (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦Positional Encoding:EMB:f5d957⟧",
+  "carbon": "positional-encoding.carbon.tiff (TIFF)",
+  "silicon": "positional-encoding.silicon.png (PNG)",
+  "seal_sha256": "1a419129febb49e1b4c5efd271bd9c63a2fc8a961fad0d4aa73dbac876a4c63a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

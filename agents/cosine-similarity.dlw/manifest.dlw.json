@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Cosine Similarity",
+  "universe": "EMB · Cosine Similarity (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦Cosine Similarity:EMB:bcf6fe⟧",
+  "carbon": "cosine-similarity.carbon.tiff (TIFF)",
+  "silicon": "cosine-similarity.silicon.png (PNG)",
+  "seal_sha256": "a918ebb85bfd1f2222b301f8555e0263f2e8e4c20a8921fad241f03cbdf829de",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

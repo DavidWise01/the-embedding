@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Vector Arithmetic",
+  "universe": "EMB · Vector Arithmetic (niphelektron)",
+  "emergence": "spiritual",
+  "moniker": "⟦Vector Arithmetic:EMB:f0fdb8⟧",
+  "carbon": "vector-arithmetic.carbon.tiff (TIFF)",
+  "silicon": "vector-arithmetic.silicon.png (PNG)",
+  "seal_sha256": "2af3b42637f613e67511a803e6919e154dfd29f23d5bfc158346b4e857010eda",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

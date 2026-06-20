@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "the-embedding-vector",
+    "name": "The Embedding Vector",
+    "epithet": "the token as numbers · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Embedding Vector:EMB:b64867⟧"
+  },
+  {
+    "slug": "the-embedding-table",
+    "name": "The Embedding Table",
+    "epithet": "the lookup of meaning · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Embedding Table:EMB:d0aa79⟧"
+  },
+  {
+    "slug": "the-semantic-space",
+    "name": "The Semantic Space",
+    "epithet": "where meaning lives · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Semantic Space:EMB:1ecba5⟧"
+  },
+  {
+    "slug": "cosine-similarity",
+    "name": "Cosine Similarity",
+    "epithet": "relatedness as an angle · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Cosine Similarity:EMB:bcf6fe⟧"
+  },
+  {
+    "slug": "vector-arithmetic",
+    "name": "Vector Arithmetic",
+    "epithet": "king − man + woman · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Vector Arithmetic:EMB:f0fdb8⟧"
+  },
+  {
+    "slug": "the-dimensions",
+    "name": "The Dimensions",
+    "epithet": "hundreds, not two · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Dimensions:EMB:a8b968⟧"
+  },
+  {
+    "slug": "positional-encoding",
+    "name": "Positional Encoding",
+    "epithet": "so order matters · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Positional Encoding:EMB:f5d957⟧"
+  },
+  {
+    "slug": "learned-not-assigned",
+    "name": "Learned, Not Assigned",
+    "epithet": "the coordinates come from data · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Learned, Not Assigned:EMB:0acd62⟧"
+  },
+  {
+    "slug": "meaning-as-geometry",
+    "name": "Meaning as Geometry",
+    "epithet": "the core idea · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Meaning as Geometry:EMB:e06b00⟧"
+  },
+  {
+    "slug": "word2vec",
+    "name": "word2vec, the Ancestor",
+    "epithet": "where it was first seen · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦word2vec, the Ancestor:EMB:1db7c7⟧"
+  }
+]

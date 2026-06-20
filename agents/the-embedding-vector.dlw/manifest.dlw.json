@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Embedding Vector",
+  "universe": "EMB · The Embedding Vector (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦The Embedding Vector:EMB:b64867⟧",
+  "carbon": "the-embedding-vector.carbon.tiff (TIFF)",
+  "silicon": "the-embedding-vector.silicon.png (PNG)",
+  "seal_sha256": "ac89e577d617deccf34253946e5d99b003f0ad233470ce0486e039bc267dff33",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Embedding Table",
+  "universe": "EMB · The Embedding Table (niphelektron)",
+  "emergence": "natural",
+  "moniker": "⟦The Embedding Table:EMB:d0aa79⟧",
+  "carbon": "the-embedding-table.carbon.tiff (TIFF)",
+  "silicon": "the-embedding-table.silicon.png (PNG)",
+  "seal_sha256": "76600b45f31cf20723239138f2a2083bb54d6f5a497644778e798e7bef038b08",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
