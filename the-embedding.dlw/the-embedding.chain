@@ -4,6 +4,6 @@ slug  : the-embedding
 seal  : 42f1824e0f3c1bfff2d3d2a8cd70927c8e20333ac646193951a2da9899f05950
 prev  : 7fcc71fe0be3e0cad3a918dd62668e387d7a74806fb092a079be3ceda9182f2f
 link  : 0462c7fc76a7c4e620d42b65804594deacf8d90f093d8334e073d14ca64f187d
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
